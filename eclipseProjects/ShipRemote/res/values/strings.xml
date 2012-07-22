@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">ShipRemote</string>
+<string name="tryToConnect">Verbindung zum Schiff wird hergestellt.</string>
+<string name="connectionFaild">Es konnte keine Verbindung zum Schiff hergestellt werden.</string>
+<string name="errorDlgTitle">Fehler</string>
+<string name="btnOK">OK</string>
+<string name="sendDataError">Fehler beim versenden von Daten.</string>
+
+
+<string name="tcpListeningError">TCP listening fehlgeschlagen.</string>
+<string name="shipResetInfo">Schiff angehalten.</string>
+<string name="gestureAbord">Geste abgebrochen.</string>
+<string name="connected">Verbindung hergestellt.</string>
+</resources>
